@@ -25,4 +25,4 @@ for p in data:
 
 end = time.time()
 
-print('\nEvaluadas un total de %s ciudades en %s segundos' % (i, round((end-start),2)))
+print('\n\nEvaluadas un total de %s ciudades en %s segundos' % (i, round((end-start),2)))
