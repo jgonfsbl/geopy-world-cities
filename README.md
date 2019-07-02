@@ -11,7 +11,7 @@ A GeoPy test running against a JSON file with all the most important world citie
   }
 ```
 
-### Example finish
+### Example results
 ```
 Ciudad: Epworth
 Distancia a MADRID: 7395.01 km
